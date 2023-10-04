@@ -1,1 +1,13 @@
 /* Team Member 2: Dao */
+.btn-git-test{
+    background-color: antiquewhite;
+    border-radius: 20%;
+    color: black;
+    padding: 100px;
+    font-size: 50px;
+}
+
+.btn-git-test:hover {
+    background-color: aliceblue;
+    color: black;
+}
